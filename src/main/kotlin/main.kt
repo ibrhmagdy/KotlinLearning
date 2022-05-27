@@ -1,6 +1,6 @@
 fun main () {
 
         print ("hello world")
-    println ("hello world")
+    println ("hello world2")
 
     }
